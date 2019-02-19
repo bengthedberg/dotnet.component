@@ -1,3 +1,3 @@
 # Sample console app 
 
-With commandline paramaters, console loggind and dependency injection.
+With command line parameters, console logging and dependency injection.
