@@ -1,6 +1,6 @@
 # Project Structure
 
-When looking at official.NET Core and ASP.NET Core repositories you will find a common convention in the layout of the repository.
+When looking at official.NET Core and ASP.NET Core repositories you will find a common convention in the layout of the repository. It is a good practise to also create your repository using a similar structure as it makes it easier for others to understand it.
 
 ```
 .
